@@ -17,7 +17,7 @@ I am looking for fully funded PhD position starting from 2024 fall.
 
 ## Publications
 
-* [Massive Editing for Large Language Model via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
+* [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
 Chenmien Tan, Ge Zhang, and Jie Fu  
 *Preprint*
 
@@ -25,7 +25,7 @@ Chenmien Tan, Ge Zhang, and Jie Fu
 Junqi Qian, Paul Weng, and Chenmien Tan  
 In *Proceedings of the 22nd International Conference on Autonomous Agent and Multi-Agent Systems*, 2023
 
-* [CVaR-Regret Bounds for Multi-Armed Bandits](https://proceedings.mlr.press/v189/tan23a.html)  
+* [CVaR-Regret Bounds for Multi-Armed Bandits](https://proceedings.mlr.press/v189/tan23a/tan23a.pdf)  
 Chenmien Tan and Paul Weng  
 In *Proceedings of the 14th Asian Conference on Machine Learning*, 2023
 
