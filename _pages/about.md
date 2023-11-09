@@ -17,9 +17,9 @@ I am looking for fully funded PhD position starting from 2024 fall.
 
 ## Publications
 
-<!-- * [Massive Editing for Large Language Model via Meta Learning](https://chenmientan.github.io/files/Mass_Large_Language_Model_Editing_via_Meta_Learning.pdf)  
+* [Massive Editing for Large Language Model via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
 Chenmien Tan, Ge Zhang, and Jie Fu  
-*Preprint* -->
+*Preprint*
 
 * [Learning Rewards to Optimise Global Performance Metrics in Deep Reinforcement Learning](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1951.pdf)  
 Junqi Qian, Paul Weng, and Chenmien Tan  
