@@ -40,5 +40,5 @@ Ranking: 45/2952 = 1.7%
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, Zhile Yu@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
 I learnt a lot when working with them.
