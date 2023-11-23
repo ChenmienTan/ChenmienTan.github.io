@@ -42,3 +42,25 @@ Ranking: 45/2952 = 1.7%
 
 I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
 I learnt a lot when working with them.
+
+## Fun Facts
+
+* I am the 14th academic generation descendant of Gauss: [Carl Gauss](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18231) 
+-> Christian Gerling 
+-> Julius Plücker 
+-> Christian Klein 
+-> Carl Lindemann
+-> Arnold Sommerfeld
+-> Ernst Guillemin
+-> Samuel Mason
+-> Francis Lee
+-> Jonathan Allen
+-> Mitchell Marcus
+-> Jason Eisner
+-> Noah Smith
+-> Shay Cohen
+-> me.
+
+* My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
+Yes, this is not a typo.
+It was founded in 143-141 B.C.
