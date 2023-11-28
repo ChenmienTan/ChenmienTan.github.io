@@ -45,21 +45,8 @@ I learnt a lot when working with them.
 
 ## Fun Facts
 
-* I am the 14th academic generation descendant of Gauss: [Carl Gauss](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18231) 
--> Christian Gerling 
--> Julius Plücker 
--> Christian Klein 
--> Carl Lindemann
--> Arnold Sommerfeld
--> Ernst Guillemin
--> Samuel Mason
--> Francis Lee
--> Jonathan Allen
--> Mitchell Marcus
--> Jason Eisner
--> Noah Smith
--> Shay Cohen
--> me.
+* I am the 14th academic generation descendant of [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), 14th of [Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), 18th of [Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli), 20th of [Leibniz](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), 26th of [Copernicus](Copernicus).
+
 
 * My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
 Yes, this is not a typo.
