@@ -45,7 +45,7 @@ I learnt a lot when working with them.
 
 ## Fun Facts
 
-* I am the 14th academic generation descendant of [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), the 14th of [Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), the 18th of [Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli), the 20th of [Leibniz](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), and the 26th of [Copernicus](Copernicus).
+* I am the 14th academic generation descendant of [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), the 14th of [Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), the 18th of [Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli), the 20th of [Leibniz](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), and the 26th of [Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus).
 
 
 * My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
