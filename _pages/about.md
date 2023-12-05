@@ -8,25 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an M.Res. student at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/)
-as a member of the [Cohort](https://bollin.inf.ed.ac.uk) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/) group.
-Prior to that, I was fortunate to be advised by Dr. [Jie Fu](https://bigaidream.github.io/) at the Hong Kong University of Science and Technology and prof. [Paul Weng](http://weng.fr/) at the Shanghai Jiao Tong University.
-My interest lies in how data affect the behaviors of Language Models and how to control the effect.
-For more information, see my [CV](https://chenmientan.github.io/files/CV.pdf), [Kaggle](https://www.kaggle.com/chenmientan), and [Zhihu](https://www.zhihu.com/people/tanchenmien).
-I am looking for fully funded PhD position starting from 2024 fall.
+I am a language model enthusiast whose current interest lies in fact tracing and knowledge editing. 
+
+[CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
+
+## Education
+
+* University of Edinburgh, 2023/09—2024/06  
+*M.Res. in Language Processing, Supervisor: [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/)*
+
+* University of Nottingham Nongbo China, 2018/09—2022/06  
+*B.Sc. in Applied Mathematics*
+
+## Internships
+
+* Hong Kong University of Science and Engineering, 2023/04—2023/08  
+*Research Assistant, Supervisor: [Jie Fu](https://bigaidream.github.io/)*
+
+* Shanghai Jiao Tong University, 2022/09—2022/12  
+*Research Assistant, Supervisor: [Paul Weng](http://weng.fr/)*
 
 ## Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
-Chenmien Tan, Ge Zhang, and Jie Fu  
+**Chenmien Tan**, Ge Zhang, and Jie Fu  
 *Preprint*
 
 * [Learning Rewards to Optimise Global Performance Metrics in Deep Reinforcement Learning](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1951.pdf)  
-Junqi Qian, Paul Weng, and Chenmien Tan  
+Junqi Qian, Paul Weng, and **Chenmien Tan**  
 In *Proceedings of the 22nd International Conference on Autonomous Agent and Multi-Agent Systems*, 2023
 
 * [CVaR-Regret Bounds for Multi-Armed Bandits](https://proceedings.mlr.press/v189/tan23a/tan23a.pdf)  
-Chenmien Tan and Paul Weng  
+**Chenmien Tan** and Paul Weng  
 In *Proceedings of the 14th Asian Conference on Machine Learning*, 2023
 
 ## Competitions
