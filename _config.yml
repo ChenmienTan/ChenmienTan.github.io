@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chenmien Tan"
   avatar           : "WechatIMG15.jpg"
-  bio              : #"MRes in EdinburghNLP"
+  bio              : "" #"MRes in EdinburghNLP"
   location         : #"Edinburgh, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

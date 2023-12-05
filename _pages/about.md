@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a language model enthusiast whose current interest lies in fact tracing and knowledge editing. 
+I am a language model enthusiast whose interest covers fact tracing and knowledge editing. 
 
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
@@ -65,4 +65,3 @@ I learnt a lot when working with them. -->
 Yes, this is not a typo.
 It was founded in 143-141 B.C.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R2Mp1PpBwzUj4RXv56EunBX4u30s1fFVaEyl2mQau0c"></script>
