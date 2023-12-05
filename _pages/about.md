@@ -51,10 +51,10 @@ Ranking: 25/1135 = 2.2%
 * [H&M Personalized Fashion Recommendations](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)  
 Ranking: 45/2952 = 1.7%
 
-## Acknowledgement
+<!-- ## Acknowledgement
 
 I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, [Yifu Qiu](https://yfqiu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
-I learnt a lot when working with them.
+I learnt a lot when working with them. -->
 
 ## Fun Facts
 
@@ -64,3 +64,5 @@ I learnt a lot when working with them.
 * My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
 Yes, this is not a typo.
 It was founded in 143-141 B.C.
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R2Mp1PpBwzUj4RXv56EunBX4u30s1fFVaEyl2mQau0c"></script>
