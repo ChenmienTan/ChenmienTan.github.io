@@ -22,7 +22,7 @@ I am a language model enthusiast whose interest covers fact tracing and knowledg
 
 ## Internships
 
-* Hong Kong University of Science and Engineering, 2023/04—2023/08  
+* Hong Kong University of Science and Technology, 2023/04—2023/08  
 *Research Assistant, Supervisor: [Jie Fu](https://bigaidream.github.io/)*
 
 * Shanghai Jiao Tong University, 2022/09—2022/12  
@@ -49,7 +49,7 @@ In *Proceedings of the 14th Asian Conference on Machine Learning*, 2023
 * [Google AI4Code – Understand Code in Python Notebooks](https://www.kaggle.com/competitions/AI4Code/discussion/343603)  
 *Ranking: 25/1135 = 2.2%* 
 * [H&M Personalized Fashion Recommendations](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)  
-*Ranking: 45/2952 = 1.7%*
+*Ranking: 45/2952 = 1.5%*
 
 <!-- ## Acknowledgement
 
