@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a language model enthusiast whose interest covers fact tracing and knowledge editing. 
+I am learning to be a machine learning researcher.
 
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
@@ -36,11 +36,11 @@ I am a language model enthusiast whose interest covers fact tracing and knowledg
 
 * [Learning Rewards to Optimise Global Performance Metrics in Deep Reinforcement Learning](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1951.pdf)  
 Junqi Qian, Paul Weng, and **Chenmien Tan**  
-In *Proceedings of the 22nd International Conference on Autonomous Agent and Multi-Agent Systems*, 2023
+*AAMAS'23*
 
 * [CVaR-Regret Bounds for Multi-Armed Bandits](https://proceedings.mlr.press/v189/tan23a/tan23a.pdf)  
 **Chenmien Tan** and Paul Weng  
-In *Proceedings of the 14th Asian Conference on Machine Learning*, 2023
+*ACML'22*
 
 ## Competitions
 
