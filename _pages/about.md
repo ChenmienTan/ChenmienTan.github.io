@@ -17,7 +17,7 @@ I am learning to be a machine learning researcher.
 * University of Edinburgh, 2023/09—2024/06  
 *M.Res. in Language Processing, Supervisor: [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/)*
 
-* University of Nottingham Nongbo China, 2018/09—2022/06  
+* University of Nottingham Ningbo China, 2018/09—2022/06  
 *B.Sc. in Applied Mathematics*
 
 ## Internships
