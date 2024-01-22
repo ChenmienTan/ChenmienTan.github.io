@@ -29,7 +29,7 @@ Given that language models are nearing human-level performance, it is difficult 
 But this doesn't mean they can't continue to improve.
 Just as an athlete's coach doesn't need to be more skilled in the sport than the athlete, as long as the coach can discriminate the athlete's level, they can supervise them.
 This is very akin to reinforcement learning from human preference.
-If there is only limitation but no exploration, it is not reasonable that machines can surpass humans.
+If there is only imitation but no exploration, it is not reasonable that machines can surpass humans.
 
 I hope to contribute to these interesting problems.
 I am still learning...
