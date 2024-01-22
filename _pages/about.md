@@ -8,25 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am learning to be a machine learning researcher.
-
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
-## Education
+I don't like to talk about the term AGI.
+I think AGI, compared to AI, is akin to how communism compares to socialism - it represents an ideal rather than a practical reality (at least for now, and in my view, also in the distant future).
+To me, 'Towards the creation of AGI' and 'Striving for communism' are correct but overly broad objectives.
+I prefer to focus on specific technologies and attempts, as long as they are beneficial.
 
-* University of Edinburgh, 2023/09—2024/06  
-*M.Res. in Language Processing, Supervisor: [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/)*
+I focused on reinforcement learning during my undergraduate with prof. [Paul Weng](http://weng.fr/) at the Shanghai Jiao Tong University.
+I found that while agents can learn powerful decision-making abilities from the environment, they suffer low data efficiency, requiring extensive exploration to acquire simple skills.
+In contrast, humans exhibit considerable zero-shot performance, thanks to humans’ general ability to generalize across different tasks.
+So far, it is difficult to learn such ability in decision-making problems because of the significant divergence in the state and action spaces of different environments.
+However, language, as the primary carrier of information, can transfer well across tasks.
+Consequently, I shifted my focus to language models.
 
-* University of Nottingham Ningbo China, 2018/09—2022/06  
-*B.Sc. in Applied Mathematics*
+I believe that language models have the potential to replace search engines and even revolutionize education, as accessing information and knowledge has never been as simple as it is today.
+However, a bottleneck for language models in querying professional knowledge is trustworthness and resposibility, which imposes my work with Dr. [Jie Fu](https://bigaidream.github.io/) at the Hong Kong University of Science and Technology and prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) at the University of Edinburgh.
+My another interest lies in weak-to-strong supervision.
+Given that language models are nearing human-level performance, it is difficult for them to learn from human annotations.
+But this doesn't mean they can't continue to improve.
+Just as an athlete's coach doesn't need to be more skilled in the sport than the athlete, as long as the coach can discriminate the athlete's level, they can supervise them.
+This is very akin to reinforcement learning from human preference.
+If there is only limitation but no exploration, it is not reasonable that machines can surpass humans.
 
-## Internships
-
-* Hong Kong University of Science and Technology, 2023/04—2023/08  
-*Research Assistant, Supervisor: [Jie Fu](https://bigaidream.github.io/)*
-
-* Shanghai Jiao Tong University, 2022/09—2022/12  
-*Research Assistant, Supervisor: [Paul Weng](http://weng.fr/)*
+I hope to contribute to these interesting problems.
+I am still learning...
 
 ## Publications
 
