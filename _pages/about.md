@@ -10,11 +10,6 @@ redirect_from:
 
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
-I don't like to talk about the term AGI.
-I think AGI, compared to AI, is akin to how communism compares to socialism - it represents an ideal rather than a practical reality (at least for now, and in my view, also in the distant future).
-To me, 'Towards the creation of AGI' and 'Striving for communism' are correct but overly broad objectives.
-I prefer to focus on specific technologies and attempts, as long as they are beneficial.
-
 I focused on reinforcement learning during my undergraduate with prof. [Paul Weng](http://weng.fr/) at the Shanghai Jiao Tong University.
 I found that while agents can learn powerful decision-making abilities from the environment, they suffer low data efficiency, requiring extensive exploration to acquire simple skills.
 In contrast, humans exhibit considerable zero-shot performance, thanks to humans’ general ability to generalize across different tasks.
@@ -61,11 +56,6 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 
 * TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
 
-<!-- ## Acknowledgement
-
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, [Yifu Qiu](https://yfqiu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
-I learnt a lot when working with them.
-
 ## Fun Facts
 
 * I am the 14th academic generation descendant of [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), the 14th of [Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), the 18th of [Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli), the 20th of [Leibniz](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), and the 26th of [Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus).
@@ -73,5 +63,12 @@ I learnt a lot when working with them.
 
 * My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
 Yes, this is not a typo.
-It was founded in 143-141 B.C. -->
+It was founded in 143-141 B.C.
+
+## Acknowledgement
+
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, [Yifu Qiu](https://yfqiu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
+I learnt a lot when working with them.
+
+
 
