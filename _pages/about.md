@@ -40,6 +40,7 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 
 ## Services
 
+* Reviewer: ICML'24
 * TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
 
 ## Fun Facts
