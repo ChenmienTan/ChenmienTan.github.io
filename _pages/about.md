@@ -17,6 +17,9 @@ Prior to that, I interned at Hong Kong University of Science and Technology unde
 I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [BLENDER](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
 I am looking for PhD position starting from 2025 fall.
 
+I am learning how to do research...
+Let me know if you have any good idea.
+
 ## Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
@@ -42,8 +45,8 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 
 ## Services
 
-* Reviewer: ICML'24
-* TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
+* Reviewer: ICML'24 (6 papers)
+* TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24 (44 hours), [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24 (62 hours)
 
 ## Fun Facts
 
@@ -54,9 +57,14 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 Yes, this is not a typo.
 It was founded in 143-141 B.C.
 
+## Failures
+
+* Didn't manage to make a submission to COLM'24.
+* Missed the early registration for ICLR'24.
+
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, [Yifu Qiu](https://yfqiu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, and [Marcio Fonseca](https://marciofonseca.me)@Edinburgh.
 I learnt a lot when working with them.
 
 
