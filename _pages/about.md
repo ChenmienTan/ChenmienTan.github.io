@@ -58,11 +58,11 @@ It was founded in 143-141 B.C.
 ## Failures
 
 * Didn't manage to make a submission to COLM'24.
-* Missed the early registration for ICLR'24.
+* Missed the early registration and failed to be a volunteer of ICLR'24.
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, Ge Zhang@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, and [Simon Yu](https://simon-yu.netlify.app)@Edinburgh.
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
 I learnt a lot when working with them.
 
 
