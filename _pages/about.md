@@ -18,6 +18,9 @@ My current research interest lies in Retrieval-Augmented Generation and Alignmen
 I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [BLENDER](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
 I am looking for PhD position starting from 2025 fall.
 
+*The only matter is whether you will risk looking like a fool, for love, for your dream, for the adventure of being alive.
+The prople who are creazy enough to think they can change the world are the ones who do.*
+
 ## Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
@@ -52,7 +55,7 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 
 
 * My [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) has a history over 2,160 years.
-Yes, this is not a typo.
+This is not a typo.
 It was founded in 143-141 B.C.
 
 ## Failures
@@ -62,7 +65,7 @@ It was founded in 143-141 B.C.
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@Edinburgh, [Simon Yu](https://simon-yu.netlify.app)@Edinburgh, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
 I learnt a lot when working with them.
 
 
