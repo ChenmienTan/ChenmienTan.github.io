@@ -19,7 +19,7 @@ I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant 
 I am looking for PhD position starting from 2025 fall.
 
 *The only matter is whether you will risk looking like a fool, for love, for your dream, for the adventure of being alive.
-The prople who are creazy enough to think they can change the world are the ones who do.*
+The only stupid thing is the one you were afraid to do but never did.*
 
 ## Publications
 
