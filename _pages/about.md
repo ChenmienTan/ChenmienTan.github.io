@@ -18,7 +18,9 @@ My current research interest lies in Retrieval-Augmented Generation and Alignmen
 I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [BLENDER](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
 I am looking for PhD position starting from 2025 fall.
 
-*The only stupid thing is the one you were afraid to do but never did.*
+*The only stupid thing is the one you were afraid to do but never did. For the adventure of being alive, risk looking like a fool and rise anyway.*
+
+
 
 ## Publications
 
