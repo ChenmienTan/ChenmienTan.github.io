@@ -11,16 +11,14 @@ redirect_from:
 
 I am currently an M.Res. student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/) and Shanghai Jiao Tong University under the supervision of prof. [Paul Weng](http://weng.fr/).
-My current research interest lies in Alignment.
+My current research interest lies in enabling super-human Reasoning capability of Large Language Models via Reinforcement Learning.
 
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
-I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [BLENDER](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
+I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [UIUCNLP](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
 I am looking for PhD position starting from 2025 fall.
 
 *The only stupid thing is the one you were afraid to do but never did.*
-
-
 
 ## Publications
 
