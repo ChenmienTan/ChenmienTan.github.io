@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am an M.Res. student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and intern in [UIUCNLP](http://blender.cs.illinois.edu/index.html) advised by [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
-Prior to that, I interned at HKUST under the supervision of [Jie Fu](https://bigaidream.github.io/) and SJTU under the supervision of [Paul Weng](http://weng.fr/).
+I am an M.Res. student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and an intern in [UIUCNLP](http://blender.cs.illinois.edu/index.html) advised by [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
+I used to intern at HKUST under the supervision of [Jie Fu](https://bigaidream.github.io/) and SJTU under the supervision of [Paul Weng](http://weng.fr/).
 My interest lies in enabling language models to learn from feedback.
 I will join [WestlakeNLP](https://westlake-nlp.github.io) as intern advised by [Yue Zhang](https://frcchang.github.io).
-I am looking for PhD position in 2025 Fall.
 
-[CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
+<!-- [CV](https://chenmientan.github.io/files/CV.pdf) ｜  -->
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
 ## Publications
 
