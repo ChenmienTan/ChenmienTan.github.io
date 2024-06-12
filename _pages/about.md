@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 
-I am currently an M.Res. student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
-Prior to that, I interned at Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/) and Shanghai Jiao Tong University under the supervision of prof. [Paul Weng](http://weng.fr/).
-My current research interest lies in Preference Learning for Large Language Models.
+I am an M.Res. student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and intern in [UIUCNLP](http://blender.cs.illinois.edu/index.html) advised by [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
+Prior to that, I interned at HKUST under the supervision of [Jie Fu](https://bigaidream.github.io/) and SJTU under the supervision of [Paul Weng](http://weng.fr/).
+My interest lies in enabling language models to learn from feedback.
+I will join [WestlakeNLP](https://westlake-nlp.github.io) as intern advised by [Yue Zhang](https://frcchang.github.io).
+I am looking for PhD position in 2025 Fall.
 
 [CV](https://chenmientan.github.io/files/CV.pdf) ｜ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
-
-I will join [WestlakeNLP](https://westlake-nlp.github.io) as research assistant under the supervision of prof. [Yue Zhang](https://frcchang.github.io) and [UIUCNLP](http://blender.cs.illinois.edu/index.html) as intern under the supervision of prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html).
-I am looking for PhD position starting from 2025 fall.
 
 ## Publications
 
@@ -57,8 +56,8 @@ It was founded in 143-141 B.C.
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@UZH, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
-I learnt a lot when working with them.
+I am lucky to work with many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@Beihang, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@UZH, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
+I learnt a lot from them.
 
 
 
