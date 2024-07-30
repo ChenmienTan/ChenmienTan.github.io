@@ -57,6 +57,5 @@ It was founded in 143-141 B.C. -->
 
 I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@UZH, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
 I learnt a lot from them.
-
-
-
+Foremost, I thank [Chenxi Chen](https://2023.rca.ac.uk/students/chenxi-chen/) for her companionship and understanding.
+She is my greatest fortunate. 
