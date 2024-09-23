@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research master student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/), an intern in [UIUCNLP](http://blender.cs.illinois.edu/index.html) advised by prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html), and an intern in [WestlakeNLP](https://westlake-nlp.github.io) advised by prof. [Yue Zhang](https://frcchang.github.io).
+I am a research master student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 I used to intern at HKUST under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/) and SJTU under the supervision of prof. [Paul Weng](http://weng.fr/).
 My research interest lies in post-training, activating the ability of foundation models by reinforcement learning.
  
@@ -54,7 +54,7 @@ It was founded in 143-141 B.C.
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@UZH, [Simon Yu](https://simon-yu.netlify.app)@NEU, and [Yangyi Chen](https://yangyi-chen.github.io)@UIUC.
+I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@Waterloo, [Hanxu Hu](https://hanxuhu.github.io)@UZH, and [Simon Yu](https://simon-yu.netlify.app)@NEU.
 I learnt a lot from them.
 Foremost, I thank [Chenxi Chen](https://2023.rca.ac.uk/students/chenxi-chen/) for her companionship and understanding.
 She is my greatest fortunate. 
