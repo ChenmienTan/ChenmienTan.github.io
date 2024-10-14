@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I was a research master student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/), an intern at HKUST under the supervision of prof. [Jie Fu](https://bigaidream.github.io/), and an intern at SJTU under the supervision of prof. [Paul Weng](http://weng.fr/).
+I was a research master student in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/), an intern at Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/), and an intern at Shanghai Jiao Tong University under the supervision of prof. [Paul Weng](http://weng.fr/).
 My research interest lies in post-training, activating the capabilities of foundation models by learning from feedback.
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
