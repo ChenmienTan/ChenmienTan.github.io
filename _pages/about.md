@@ -9,16 +9,12 @@ redirect_from:
 ---
 
 I am an intern at Westlake University advised by prof. [Tao Lin](https://tlin-taolin.github.io/cv.html).
-I was a research master in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/), an intern at Hong Kong University of Science and Technology advised by Dr. [Jie Fu](https://bigaidream.github.io/), and an intern at Shanghai Jiao Tong University advised by prof. [Paul Weng](http://weng.fr/).
-My research interest lies in post-training, activating the capabilities of foundation models by learning from feedback.
+I was a research master in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and an intern at Hong Kong University of Science and Technology advised by Dr. [Jie Fu](https://bigaidream.github.io/).
+My research interest lies in post-training, enabling foundation models to reason and plan.
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
 ## Selected Publications
-
-* [Language Model Merging in Iterative Preference Learning](https://drive.google.com/file/d/1sqPMex7o70OgHKtSVHT_PbT1GbSouHL-/view?usp=sharing)  
-Chenmien Tan, Simon Yu, and Shay Cohen  
-*Preprint*
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
 Chenmien Tan, Ge Zhang, and Jie Fu  
