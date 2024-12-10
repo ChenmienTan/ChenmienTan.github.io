@@ -10,7 +10,7 @@ redirect_from:
 
 I am an intern at Westlake University advised by prof. [Tao Lin](https://tlin-taolin.github.io/cv.html).
 I was a research master in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and an intern at Hong Kong University of Science and Technology advised by Dr. [Jie Fu](https://bigaidream.github.io/).
-My research interest lies in post-training, enabling foundation models to reason and plan.
+My research interest lies in enabling agents to reason and plan by learning from feedback.
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
