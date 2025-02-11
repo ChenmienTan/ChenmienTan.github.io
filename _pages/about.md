@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an intern at Westlake University advised by prof. [Tao Lin](https://tlin-taolin.github.io/cv.html).
-I was a research master in [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk) advised by prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/) and an intern at Hong Kong University of Science and Technology advised by Dr. [Jie Fu](https://bigaidream.github.io/).
-My research interest lies in enabling agents to reason and plan by learning from feedback.
+I am an engineer in Alibaba Group.
+I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
+Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
+
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
@@ -51,7 +52,7 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 
 ## Acknowledgement
 
-I am lucky to meet many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@NEU, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@ByteDance, [Hanxu Hu](https://hanxuhu.github.io)@UZH, and [Simon Yu](https://simon-yu.netlify.app)@NEU.
+I am lucky to work with many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@Huawei, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@ByteDance, [Hanxu Hu](https://hanxuhu.github.io)@UZH, and [Simon Yu](https://simon-yu.netlify.app)@NEU.
 I learnt a lot from them.
 Foremost, I thank [Chenxi Chen](https://2023.rca.ac.uk/students/chenxi-chen/) for her companionship.
 She is my greatest fortunate. 
