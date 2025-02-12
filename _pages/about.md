@@ -11,6 +11,7 @@ redirect_from:
 I am an engineer in Alibaba Group.
 I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
+I am interested in aligning LLMs with the universe.
 
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
@@ -38,7 +39,7 @@ Junqi Qian, Paul Weng, and **Chenmien Tan**
 * [H&M Personalized Fashion Recommendations](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)  
 *Ranking: 45/2952 = 1.5%*
 
-## Services
+## Academic Services
 
 * Reviewer: ICLR'25, ICML'24-25
 * TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
